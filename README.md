@@ -2,7 +2,7 @@
 
 🎓 BMS Graduate | 📊 Aspiring Data Analyst  
 💻 Currently learning Data Analytics, Power Query, Power BI, SQL & Python  
-📍 Based in India | 
+📍 Based in Mumbai, India | 
 
 ---
 
