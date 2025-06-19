@@ -28,7 +28,7 @@ Now, I’m expanding my skills with tools like Power BI, SQL, and Python to enha
 - **Power BI:** In Progress  
 - **SQL & Python:** Basics in Progress  
 - **Others:** Google Sheets, PowerPoint  
-- **Soft Skills:** Attention to detail, structured thinking, strong communication  
+- **Soft Skills:** Attention to detail, structured thinking
 
 ---
 
