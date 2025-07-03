@@ -50,4 +50,4 @@ An interactive Excel dashboard analyzing retail sales performance across multipl
 
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/kashyapdhimmar/) | [Email](mailto:kashyapdhimmar1505@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kashyapdhimmar/)
