@@ -43,8 +43,11 @@ An interactive Excel dashboard analyzing retail sales performance across multipl
 
 ## 📎 Certifications
 
-✔️ Excel Certification (ISO Certified)  
-✔️ McKinsey Forward Program – Super Learner Badge  
+✔️ Advance Excel
+✔️ Power Query
+✔️ Data Governance with Databricks
+✔️ Deloitte Australia - Data Analytics Job Simulation
+✔️ McKinsey Forward Program 
 
 ---
 
