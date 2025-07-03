@@ -1,56 +1,65 @@
-# 👋 Hi, I'm Kashyap Dhimmar!
+# 👋 Hi, I'm Kashyap Dhimmar
 
-🎓 BMS Graduate | 📊 Aspiring Data Professional | BMS Graduate | Skilled in Excel & Power Query |
-💻 Currently learning Power BI & SQL 
-📍 Based in Mumbai, India | 
+🎓 BMS Graduate | 📊 Aspiring Data & Compliance Professional  
+💻 Skilled in Excel & Power Query | Learning Power BI, SQL & Python  
+📍 Mumbai, India  
 
 ---
 
 ## 🚀 About Me
 
-I’m passionate about turning raw data into meaningful insights. With a background in customer service and a growing skill set in Excel, Power Query, and data visualization, I’m building a strong foundation in data analytics.
+I’m passionate about working with structured data, ensuring accuracy, and supporting process-driven decisions. With a background in customer service and hands-on skills in Excel, Power Query, and reporting workflows, I'm transitioning into the fields of data analytics and compliance operations.
 
-Recently, I created my first interactive Excel dashboard titled **"RetailMetrics Sales Analysis"**, featuring:  
-- Category-wise and Region-wise Transactions  
-- Monthly Order Trends  
-- Top Cities by Sales  
-- Consumer Type and Shipping Mode Analysis  
-- Fully Interactive Filters  
-
-Now, I’m expanding my skills with tools like Power BI, SQL, and Python to enhance my data analytics capabilities.
+### 💡 Highlights:
+- Built an interactive Excel dashboard: **RetailMetrics Sales Analysis**
+- Developing skills in **Power BI**, **SQL**, and **Data Governance**
+- Interested in roles that combine **data accuracy**, **risk awareness**, and **operational control**
 
 ---
 
 ## 🛠️ Skills
 
-- **Excel:** Pivot Tables, Charts, Dashboards, Data Cleaning  
-- **Power Query:** Currently Learning  
-- **Power BI:** In Progress  
-- **SQL & Python:** Basics in Progress  
-- **Others:** Google Sheets, PowerPoint  
-- **Soft Skills:** Attention to detail, structured thinking
+| Tools & Tech | Description |
+|--------------|-------------|
+| **Excel** | Pivot Tables, Dashboards, Charts, VLOOKUP, Data Cleaning |
+| **Power Query** | Data Transformation, Merge/Append Queries, Automation |
+| **Power BI** | In Progress – Visuals, DAX Basics |
+| **SQL & Python** | Basics in progress |
+| **Other Tools** | Google Sheets, PowerPoint, SAP, Freshservice |
+| **Soft Skills** | Attention to Detail, Structured Thinking, Documentation Accuracy |
 
 ---
 
 ## 📚 Projects
 
-**RetailMetrics Sales Analysis Dashboard**  
-An interactive Excel dashboard analyzing retail sales performance across multiple dimensions.
+### 📊 RetailMetrics Sales Analysis (Excel Dashboard)
 
-<img src="https://github.com/Kashyapdhimmar/RetailMetrics-Excel-Dashboard/blob/04eab7e542e77dcf7003cae8e4c9861148fe47f7/Dashboard%20Preview.png" alt="RetailMetrics Dashboard" width="600"/>
+An interactive Excel dashboard to analyze retail sales performance across multiple business dimensions:
+
+- Category-wise & Region-wise Transaction Overview  
+- Monthly Order Trends  
+- Top Cities by Sales  
+- Consumer Type & Shipping Mode Breakdown  
+- Fully Interactive Filters
+
+![RetailMetrics Dashboard](https://github.com/Kashyapdhimmar/RetailMetrics-Excel-Dashboard/blob/04eab7e542e77dcf7003cae8e4c9861148fe47f7/Dashboard%20Preview.png)
+
+🔗 [View Project Repository](https://github.com/Kashyapdhimmar/RetailMetrics-Excel-Dashboard)
 
 ---
 
 ## 📎 Certifications
 
-✔️ Advance Excel
-✔️ Power Query
-✔️ Data Governance with Databricks
-✔️ Deloitte Australia - Data Analytics Job Simulation
-✔️ McKinsey Forward Program 
+- ✅ Advanced Excel – Skillcourse  
+- ✅ Power Query – Skillcourse  
+- ✅ Data Governance with Databricks *(July 2025)*  
+- ✅ Deloitte Australia – Data Analytics Virtual Job Simulation (Forage)  
+- ✅ McKinsey Forward Program – Digital Badge  
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/kashyapdhimmar/)
+- 🔗 [LinkedIn – Kashyap Dhimmar](https://www.linkedin.com/in/kashyapdhimmar/)
+
+---
