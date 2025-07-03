@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kashyap Dhimmar!
 
 🎓 BMS Graduate | 📊 Aspiring Data Professional | BMS Graduate | Skilled in Excel & Power Query |
-💻 Currently Power BI & SQL 
+💻 Currently learning Power BI & SQL 
 📍 Based in Mumbai, India | 
 
 ---
